@@ -1,2 +1,2 @@
-# fahrenheit-coverter
-Fahrenheit converter made in js
+# temperature-coverter
+A basic Fahrenheit converter made in js
